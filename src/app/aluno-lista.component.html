@@ -1,0 +1,6 @@
+<h1>Lista de alunos:</h1>
+<button type="button" class="btn btn-default" (click)="getAlunos()">Mostrar</button>
+<h3>Alunos:</h3>
+<ul>
+  <li *ngFor="let aluno of alunos">Nome: {{aluno.nome}} - Curso: {{aluno.Curso}} - Email: {{aluno.email}}</li>
+</ul>

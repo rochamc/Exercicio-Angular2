@@ -1,0 +1,11 @@
+[
+  {"nome":"João","Curso":"Engenharia de Software","email":"joao@hotmail.com"},
+  {"nome":"Paulo","Curso":"Qualidade de Software","email":"paulo@ig.com.br"},
+  {"nome":"Thiago","Curso":"Análise e Projeto Orientados a Objetos","email":"thiago@hotmail.com"},
+  {"nome":"Felipe","Curso":"Validação de Sistemas de Software","email":"felipe@uol.com.br"},
+  {"nome":"Antonio","Curso":"Arquitetura de Software","email":"antonio@yahoo.com.br"},
+  {"nome":"Murillo","Curso":"Engenharia de Software","email":"murillo@fiap.com.br"},
+  {"nome":"Pedro","Curso":"Aplicações Corporativas","email":"pedro@ibest.com.br"},
+  {"nome":"Marcão","Curso":"Engenharia de Software","email":"marcao@bone.com"},
+  {"nome":"Vinicius","Curso":"Aplicações Corporativas","email":"vinicius@gmail.com"}
+]
